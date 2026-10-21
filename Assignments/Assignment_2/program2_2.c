@@ -1,3 +1,5 @@
+//Accept a number and print that number of * symbols using decrement
+
 #include <stdio.h>
 
 void Display(int iNo)
