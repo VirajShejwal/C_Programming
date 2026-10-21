@@ -1,3 +1,5 @@
+//Display the first number the specified number of times
+
 #include <stdio.h>
 
 void Display(int iNo, int iFrequency)
