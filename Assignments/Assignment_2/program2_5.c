@@ -1,3 +1,5 @@
+//Check whether a number is even or odd using BOOL
+
 #include <stdio.h>
 
 #define TRUE 1
